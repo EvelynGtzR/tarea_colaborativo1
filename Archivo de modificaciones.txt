@@ -1,5 +1,10 @@
-
+“Anielmx”
 
 "Este archivo ser· utilizado para emular modificaciones en el proyecto colaborativo.
 
 evelynGtzR"
+
+El repositorio remoto actualizado se puede encontrar en las URL’s
+
+https://github.com/anielmx/tarea_colaborativo1
+https://github.com/EvelynGtzR/tarea_colaborativo1
